@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1050b92750bd854df9fb76e5143aa2a24cd114f1",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1050b92750bd854df9fb76e5143aa2a24cd114f1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Drippy Bears Society",
+  "SYMBOL": "DBS",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/drippybearssociety",
+  "SHOW_BACKGROUND": true
+}
